@@ -1,0 +1,86 @@
+Electricity consumption in Estonia, Latvia, and Lithuania exceeds production to such an extent that nearly 40 percent of the electricity consumed comes from imports, according to data from the European Network of Transmission System Operators for Electricity (ENTSO-E). By 2035, Eesti Energia predicts growth in both production and consumption, but none of the Baltic countries have made decisions to build new controllable capacities.
+
+Last year, Estonia produced five terawatt-hours of electricity, while consumption was much higher at 8.1 terawatt-hours. In Latvia and Lithuania, consumption also exceeds production—by only 0.5 terawatt-hours in Latvia, but by six terawatt-hours in Lithuania.
+
+Across the three Baltic countries, a total of 16.7 terawatt-hours was produced and 26.3 terawatt-hours was consumed.
+
+For the future, Eesti Energia forecasts growth in both consumption and production, so that by 2035 Estonia’s electricity production is expected to reach 9.4 terawatt-hours, but consumption will still exceed this at 10.2 terawatt-hours.
+
+Estonia’s energy production remains heavily dependent on oil shale electricity. Armen Kasparov, head of energy trading at Eesti Energia, noted that this dependency is especially high in situations where renewable energy—primarily wind and solar—is low.
+
+“Although the share of wind and solar energy is increasing, in 2023 they accounted for just over 30 percent of total Estonian production. Looking at consumption, we see that 43 percent of the energy used comes from imports. On one hand, this reflects the uncompetitiveness of oil shale electricity; on the other, it also shows insufficient renewable energy production,” Kasparov said.
+
+Estonia imports electricity at an average price of €94.5 per megawatt-hour, but exports it at a much lower price—€59.3 per megawatt-hour.
+
+Electricity is mostly available for export when solar and wind production is high, but in such cases, the market price is generally low.
+
+Enefit Green’s cash flows have decreased, while debts have surged
+Latvia relies on hydropower, Lithuania on pumped hydro stations
+
+In Latvia, hydropower plays a key role, particularly during the spring flood season.
+
+“The advantage of hydropower is that it is controllable. Thanks to large-scale hydropower production, Latvians can manage their energy output and exports during hours when electricity prices are higher,” Kasparov explained. “Because of this, we see that the price of electricity exported from Latvia is significantly higher than Estonia’s export price.”
+
+Additionally, Latvia’s gas power plants, which are more controllable than oil shale plants, help reduce dependence on imports when wind and solar energy are low.
+
+“At the same time, consumption in the country still exceeds local production, with 12 percent of the energy used being imported,” Kasparov added.
+
+Lithuania’s situation is similar to Estonia’s, but according to Eesti Energia, wind energy has developed faster in Lithuania, and additional support comes from some hydropower, controllable gas plants, and the Kruonis pumped hydro station.
+
+“The last responds to market prices and creates demand during hours of excess energy, while supplying energy when prices are high. In other words, the hydro storage smooths out price peaks and troughs,” Kasparov said.
+
+Lithuania also relies heavily on imports—53 percent of consumed electricity comes from imports, and the country’s consumption is twice its production.
+
+Electricity prices fluctuate due to unstable wind production this week
+
+A large share of wind energy and limited controllable production create a situation where Lithuania imports electricity at an average price of €104 per megawatt-hour but exports it at €17 per megawatt-hour.
+
+In Latvia, sellers must offer fixed-rate packages to customers without penalties
+
+Electricity pricing in the Baltics is uniform because in all three countries, prices are determined on the Nord Pool market based on supply and demand.
+
+Kasparov explains that price differences are influenced by cross-border connections and local production capacity, which form the market base, as well as various regulations in each country.
+
+“For example, in Latvia electricity prices are not regulated by the state, but all sellers are required to offer residential customers a fixed annual package without monthly fees or penalties,” Kasparov said.
+
+This is similar to the general service in Estonia, but unlike Estonia, Latvia has no central provider; each electricity seller has its own package.
+
+“If a customer does not choose a package, they default to the regulated one, which is usually the most expensive for the consumer because the risks for the seller are highest,” Kasparov noted.
+
+In Lithuania, so-called “third-wave” customers, those consuming less than one megawatt-hour annually, are still on regulated service, which will open in early 2026. This market segment begins opening next April, and by the end of the year, all customers must select a provider.
+
+Separation from the Russian system could make electricity more expensive
+
+In Estonia, Latvia, and Lithuania, all customers can sign long-term contracts with electricity sellers to hedge price risks, Kasparov confirmed.
+
+The most critical period is 2027–2030.
+
+Since roughly 40 percent of all electricity consumed in the Baltics comes from imports, Kasparov said there is a clear lack of competitively priced controllable electricity production capacity.
+
+“We also see room in the market for additional wind and solar energy production. Forecasts indicate significant growth for these energy types in all Baltic countries,” he said.
+
+Elering’s 2023 security of supply report noted that from 2027 onward, there is a risk of not meeting Estonia’s security of supply standard. Expectations for the Narva oil shale units end in late 2026, which may lead to closures and a shortage of production or frequency reserves.
+
+The report also indicates that the most critical period, when the Baltics and Finland heavily depend on imports to cover peak demand, is 2027–2030, during which up to 465 MW of production capacity may be missing.
+
+After 2030, additional fixed production capacities capable of rapid up-regulation will be needed, because even after opening trade with Lithuania and Poland in 2032, Estonia’s system capacity will remain below the standard.
+
+Sutter: Baltic gas power plants should operate during high prices
+
+“If such capacities are not added via the market, state aid measures must support their creation,” Elering said in the supply security report.
+
+No decisions have yet been made regarding new controllable capacities.
+
+Looking at the production structure of the Baltic electricity market last year versus the 2035 forecast, currently less than a third of production comes from non-controllable sources like wind and solar, while 11.9 terawatt-hours comes from controllable sources.
+
+In the future, this balance reverses. By 2035, wind and solar production is expected to increase up to five times, reaching 29.3 terawatt-hours, while controllable production will produce only 4.9 terawatt-hours.
+
+Kasparov noted that no investment decisions for new controllable production have yet been made in the Baltics.
+
+“As long as the Baltics have large interconnections with neighboring price zones, electricity imports will certainly continue to some extent. This is simply the logic of the European electricity market: cheaper electricity moves to regions with higher prices to equalize prices across regions. However, our import share could decrease if more competitively priced electricity is produced in the Baltics,” Kasparov said.
+
+ERR asked Elering whether the Baltic energy deficit could lead to electricity shortages in the future.
+
+Elering communications representative Kätlin Klemmer said that by 2030, Estonia should become an electricity-exporting country, as 100 percent of consumption will be covered by renewable energy production.
+
+“According to Elering’s security of supply estimates, controllable production capacities of 1,000 MW must be ensured. These capacities exist today, but in the coming years support schemes must be created to guarantee 1,000 MW,” Klemmer added.

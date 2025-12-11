@@ -1,0 +1,74 @@
+Input file: baltic_energy.txt
+Total sentences: 58
+Total tokens: 1476
+
+POS counts (Penn Treebank):
+  Nouns: 459
+  Verbs: 198
+  Adjectives: 99
+  Adverbs: 56
+
+POS proportions (of all tokens):
+  Nouns: 0.311
+  Verbs: 0.134
+  Adjectives: 0.067
+  Adverbs: 0.038
+
+Full POS table (Penn):
+  NN: 276
+  IN: 197
+  DT: 97
+  NNS: 94
+  ,: 93
+  JJ: 89
+  NNP: 82
+  VBZ: 56
+  .: 53
+  RB: 50
+  CD: 46
+  VBN: 42
+  CC: 40
+  VB: 31
+  VBP: 29
+  HYPH: 24
+  VBD: 22
+  MD: 21
+  VBG: 18
+  POS: 12
+  ``: 12
+  '': 12
+  PRP: 10
+  JJR: 9
+  :: 9
+  TO: 8
+  NNPS: 7
+  WRB: 7
+  WDT: 6
+  PRP$: 5
+  $: 3
+  RBR: 3
+  RBS: 3
+  RP: 2
+  SYM: 2
+  EX: 2
+  PDT: 1
+  -LRB-: 1
+  -RRB-: 1
+  JJS: 1
+
+Full POS table (UPOS):
+  NOUN: 370
+  PUNCT: 205
+  ADP: 169
+  VERB: 149
+  ADJ: 100
+  DET: 92
+  PROPN: 88
+  AUX: 70
+  ADV: 59
+  NUM: 46
+  CCONJ: 40
+  SCONJ: 30
+  PRON: 29
+  PART: 24
+  SYM: 5
